@@ -8,3 +8,4 @@ function power(x,y){
 var x = 15 
 var y = 23
 console.log(power(x,y))
+console.log("Hi how r u ??")
